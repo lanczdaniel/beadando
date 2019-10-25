@@ -1,0 +1,7 @@
+C:\Users\lancz\source\repos\AukcioProjekt\AukcioProjekt\bin\Debug\AukcioProjekt.exe.config
+C:\Users\lancz\source\repos\AukcioProjekt\AukcioProjekt\bin\Debug\AukcioProjekt.exe
+C:\Users\lancz\source\repos\AukcioProjekt\AukcioProjekt\bin\Debug\AukcioProjekt.pdb
+C:\Users\lancz\source\repos\AukcioProjekt\AukcioProjekt\obj\Debug\AukcioProjekt.csprojAssemblyReference.cache
+C:\Users\lancz\source\repos\AukcioProjekt\AukcioProjekt\obj\Debug\AukcioProjekt.csproj.CoreCompileInputs.cache
+C:\Users\lancz\source\repos\AukcioProjekt\AukcioProjekt\obj\Debug\AukcioProjekt.exe
+C:\Users\lancz\source\repos\AukcioProjekt\AukcioProjekt\obj\Debug\AukcioProjekt.pdb
